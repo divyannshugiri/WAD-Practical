@@ -10,19 +10,23 @@ b. Write a JavaScript Program to get the user registration data and push to arra
 Assignment 2
 a. Create version control account on GitHub and using Git commands to create repository and push
 your code to GitHub.
+
 b. Create Docker Container Environment (NVIDEIA Docker or any other).
+
 c. Create an Angular application which will do following actions: Register User, Login User, Show User
 Data on Profile Component
 
 ======================================================================
 Assignment 3
 a. Create a Node.JS Application which serves a static website.
+
 b. Create four API using Node.JS, ExpressJS and MongoDB for CURD Operations on assignment 2.C.
 
 ======================================================================
 
 Assignment 4
 a. Create a simple Mobile Website using jQuery Mobile.
+
 b. Deploy/Host Your web application on AWS VPC or AWS Elastic Beanstalk. Mini Project
 
 =======================================================================
